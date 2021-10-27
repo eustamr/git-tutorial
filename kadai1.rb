@@ -5,6 +5,8 @@ for i in 1..100 do
         puts "Fizz"
     elsif i%5==0 then
         puts "Buzz"
+    elsif i%7==0
+        puts "git"
     else
         puts i
     end
